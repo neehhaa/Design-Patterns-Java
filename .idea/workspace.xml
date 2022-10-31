@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Variables">
-      <change afterPath="$PROJECT_DIR$/src/Mosh/JavaTutorial/PrimitiveTypes.java" afterDir="false" />
+    <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Hello">
+      <change afterPath="$PROJECT_DIR$/src/Mosh/JavaTutorial/ReferenceTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimitiveTypes">
+  <component name="RunManager" selected="Application.ReferenceTypes">
     <configuration name="Mosh.JavaTutorial.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.Main" />
       <module name="Design-Patterns-Java" />
@@ -46,6 +46,19 @@
     </configuration>
     <configuration name="PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.PrimitiveTypes" />
+      <module name="Design-Patterns-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mosh.JavaTutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.ReferenceTypes" />
       <module name="Design-Patterns-Java" />
       <extension name="coverage">
         <pattern>
@@ -72,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReferenceTypes" />
         <item itemvalue="Application.PrimitiveTypes" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.Mosh.JavaTutorial.Main" />
@@ -108,7 +122,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667215017576</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Variables">
+      <created>1667215793808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667215793808</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Primitive Types">
+      <created>1667215807242</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667215807242</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hello">
+      <created>1667215821960</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667215821960</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +160,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactoring" />
     <MESSAGE value="Variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variables" />
+    <MESSAGE value="Primitive Types" />
+    <MESSAGE value="Hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
   </component>
 </project>
