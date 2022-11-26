@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Reference Types">
-      <change afterPath="$PROJECT_DIR$/src/Mosh/JavaTutorial/PrimitiveReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/WorkWithAnimals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,14 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimitiveReference">
-    <configuration name="Mosh.JavaTutorial.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.Main" />
-      <module name="Design-Patterns-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WorkWithAnimals">
     <configuration name="PrimitiveReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.PrimitiveReference" />
       <module name="Design-Patterns-Java" />
@@ -97,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WorkWithAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DerekBanas.WorkWithAnimals" />
+      <module name="Design-Patterns-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DerekBanas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WorkWithAnimals" />
         <item itemvalue="Application.PrimitiveReference" />
         <item itemvalue="Application.ReferenceTypes" />
         <item itemvalue="Application.PrimitiveTypes" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Mosh.JavaTutorial.Main" />
       </list>
     </recent_temporary>
   </component>
