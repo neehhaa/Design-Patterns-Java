@@ -1,6 +1,8 @@
-package DerekBanas;
+package DerekBanas.inheritance;
 
-public class Dog extends Animal{
+import DerekBanas.inheritance.Animal;
+
+public class Dog extends Animal {
     public void digHole(){
         System.out.println("Dug Hole");
     }

@@ -1,4 +1,4 @@
-package DerekBanas;
+package DerekBanas.inheritance;
 
 public class Animal {
     private String name;

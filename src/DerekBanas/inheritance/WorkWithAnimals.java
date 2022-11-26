@@ -1,4 +1,6 @@
-package DerekBanas;
+package DerekBanas.inheritance;
+
+import DerekBanas.inheritance.Dog;
 
 public class WorkWithAnimals {
 
