@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Reference Types">
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/WorkWithAnimals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Inheritance" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="WorkWithAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DerekBanas.WorkWithAnimals" />
+      <option name="MAIN_CLASS_NAME" value="DerekBanas.inheritance.WorkWithAnimals" />
       <module name="Design-Patterns-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DerekBanas.*" />
+          <option name="PATTERN" value="DerekBanas.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667216236222</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Inheritance">
+      <created>1669494855565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669494855565</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Inheritance">
+      <created>1669494916732</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669494916732</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +205,7 @@
     <MESSAGE value="Primitive Types" />
     <MESSAGE value="Hello" />
     <MESSAGE value="Reference Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reference Types" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
 </project>

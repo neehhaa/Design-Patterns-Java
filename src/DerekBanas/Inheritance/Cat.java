@@ -1,6 +1,4 @@
-package DerekBanas.inheritance;
-
-import DerekBanas.inheritance.Animal;
+package DerekBanas.Inheritance;
 
 public class Cat extends Animal {
     public Cat(){
