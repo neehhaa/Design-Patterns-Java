@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Polymorphism">
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/AbstractClasses/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/AbstractClasses/Giraffe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/AbstractClasses/WorkWithAnimals.java" afterDir="false" />
+    <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Abstract class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DerekBanas.AbstractClasses.WorkWithAnimals">
+  <component name="RunManager" selected="Application.WorkWithAnimals">
     <configuration name="DerekBanas.AbstractClasses.WorkWithAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DerekBanas.AbstractClasses.WorkWithAnimals" />
       <module name="Design-Patterns-Java" />
@@ -110,9 +107,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WorkWithAnimals" />
         <item itemvalue="Application.DerekBanas.AbstractClasses.WorkWithAnimals" />
         <item itemvalue="Application.DerekBanas.Polymorphism.WorkWithAnimals" />
-        <item itemvalue="Application.WorkWithAnimals" />
         <item itemvalue="Application.PrimitiveReference" />
         <item itemvalue="Application.ReferenceTypes" />
       </list>
@@ -211,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669534585763</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Abstract class">
+      <created>1669543335670</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669543335670</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +237,7 @@
     <MESSAGE value="Reference Types" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
+    <MESSAGE value="Abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract class" />
   </component>
 </project>
