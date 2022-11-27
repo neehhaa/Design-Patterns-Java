@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Polymorphism/WorkWithAnimals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns-Java/DerekBanas/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns-Java/DerekBanas/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns-Java/DerekBanas/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns-Java/DerekBanas/WorkWithAnimals.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +47,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WorkWithAnimals">
+  <component name="RunManager" selected="Application.DerekBanas.Polymorphism.WorkWithAnimals">
+    <configuration name="DerekBanas.Polymorphism.WorkWithAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DerekBanas.Polymorphism.WorkWithAnimals" />
+      <module name="Design-Patterns-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DerekBanas.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimitiveReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.PrimitiveReference" />
       <module name="Design-Patterns-Java" />
@@ -79,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.Variables" />
-      <module name="Design-Patterns-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mosh.JavaTutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WorkWithAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DerekBanas.Inheritance.WorkWithAnimals" />
       <module name="Design-Patterns-Java" />
@@ -107,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DerekBanas.Polymorphism.WorkWithAnimals" />
         <item itemvalue="Application.WorkWithAnimals" />
         <item itemvalue="Application.PrimitiveReference" />
         <item itemvalue="Application.ReferenceTypes" />
         <item itemvalue="Application.PrimitiveTypes" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669495042499</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Inheritance">
+      <created>1669497545205</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669497545205</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
