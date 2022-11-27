@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DerekBanas/Polymorphism/WorkWithAnimals.java" afterDir="false" />
+    <list default="true" id="849d5b59-0085-4687-9943-e1ac4c992a80" name="Changes" comment="Polymorphism">
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/AbstractClasses/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/AbstractClasses/Giraffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DerekBanas/AbstractClasses/WorkWithAnimals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns-Java/DerekBanas/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns-Java/DerekBanas/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns-Java/DerekBanas/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns-Java/DerekBanas/WorkWithAnimals.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DerekBanas.Polymorphism.WorkWithAnimals">
+  <component name="RunManager" selected="Application.DerekBanas.AbstractClasses.WorkWithAnimals">
+    <configuration name="DerekBanas.AbstractClasses.WorkWithAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DerekBanas.AbstractClasses.WorkWithAnimals" />
+      <module name="Design-Patterns-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DerekBanas.AbstractClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DerekBanas.Polymorphism.WorkWithAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DerekBanas.Polymorphism.WorkWithAnimals" />
       <module name="Design-Patterns-Java" />
@@ -63,19 +71,6 @@
     </configuration>
     <configuration name="PrimitiveReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.PrimitiveReference" />
-      <module name="Design-Patterns-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mosh.JavaTutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mosh.JavaTutorial.PrimitiveTypes" />
       <module name="Design-Patterns-Java" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DerekBanas.AbstractClasses.WorkWithAnimals" />
         <item itemvalue="Application.DerekBanas.Polymorphism.WorkWithAnimals" />
         <item itemvalue="Application.WorkWithAnimals" />
         <item itemvalue="Application.PrimitiveReference" />
         <item itemvalue="Application.ReferenceTypes" />
-        <item itemvalue="Application.PrimitiveTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669497545205</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Polymorphism">
+      <created>1669534585763</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669534585763</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +232,7 @@
     <MESSAGE value="Hello" />
     <MESSAGE value="Reference Types" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
   </component>
 </project>
